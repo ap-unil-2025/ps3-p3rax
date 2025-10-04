@@ -27,3 +27,6 @@ test_outputs/
 
 # Don't ignore the sample file
 !sample.txt
+
+# Ignore Jupyter/VS Code checkpoints
+.ipynb_checkpoints/
